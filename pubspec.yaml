@@ -38,6 +38,7 @@ flutter:
         package: com.example.flutter_is_awesome
         pluginClass: FlutterIsAwesomePlugin
       ios:
+        min_version: '12.0'
         pluginClass: FlutterIsAwesomePlugin
 
   # To add assets to your plugin package, add an assets section, like this:
